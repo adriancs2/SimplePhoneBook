@@ -1,0 +1,5 @@
+﻿1.3.2 (12 Aug 2013)
+
+- Symbol single quote "'" is not escaped in SQL syntax escape sequence.
+- Reimplement older version of System.Data.SQLite.
+- Current latest version of System.Data.SQLite 1.0.88.0 is suspected to have bugs.
